@@ -1,0 +1,23 @@
+.textbox{
+    position: absolute;
+    top:50px;
+    left:300px;
+    text-align: center;
+    height:200px;
+    width:900px;
+
+}
+.textbox .textfield{
+    height:100%;
+    width:100%;
+    margin-bottom:20px;
+}
+.textbox .btn{
+    float: right;
+
+}
+.textbox .limit{
+    float: left;
+
+}
+
